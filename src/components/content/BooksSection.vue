@@ -170,7 +170,7 @@ export default {
     width: 100%;
     padding-left: 20px;
     &_is-loading {
-        opacity: 30%;
+        opacity: 0.3;
     }
     @media (max-width: 460px) {
         padding-left: 0;
